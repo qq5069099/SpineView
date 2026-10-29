@@ -16,7 +16,7 @@ Windows 10 / 11 x64 · 免安装 · 手机号登录，首次登录免费试用�
 
 1. 打开本仓库的 [Releases 页面](https://github.com/qq5069099/SpineView/releases)。如果当前在仓库首页，也可以点击页面右侧的「Releases」。
 2. 在最新版本（页面最上面）下方找到「Assets」；如果没有看到文件列表，点击「Assets」展开。
-3. 下载与你购买渠道对应的 zip，文件名形如 `<渠道>-SpineView-<版本>.zip`（例如 `windows-SpineView-1.5.9.zip`），以及同名的 `.sha256` 校验文件。
+3. 下载页面上提供的 zip（文件名形如 `<渠道>-SpineView-<版本>.zip`，当前为 `windows-SpineView-1.5.9.zip`），以及同名的 `.sha256` 校验文件；如果页面有多个渠道包，请选择与你购买渠道对应的一个。
 4. **不要下载 `Source code (zip)` 或 `Source code (tar.gz)`**，它们不是安装包。
 5. 解压到任意目录（路径可以包含中文），双击 `SpineView.exe` 启动。
 6. 输入手机号并获取短信验证码，登录后即可使用；每个手机号从首次登录起有一个月试用期。
