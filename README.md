@@ -12,12 +12,12 @@ Windows 10 / 11 x64 · 免安装 · 手机号登录，首次登录免费试用�
 
 直接下载安装包：
 
-- [SpineView-1.5.8.zip](https://github.com/qq5069099/SpineView/releases/download/v1.5.8/SpineView-1.5.8.zip)
-- [SpineView-1.5.8.zip.sha256](https://github.com/qq5069099/SpineView/releases/download/v1.5.8/SpineView-1.5.8.zip.sha256)
+- [SpineView-1.5.8.rar](https://github.com/qq5069099/SpineView/raw/main/SpineView-1.5.8.rar)
+- [SpineView-1.5.8.rar.sha256](https://github.com/qq5069099/SpineView/raw/main/SpineView-1.5.8.rar.sha256)
 
 通过购买渠道购买的用户，也可以使用渠道提供的安装包。
 
-1. 下载上面的 zip 安装包和对应的 `.sha256` 校验文件。
+1. 下载上面的 rar 压缩包和对应的 `.sha256` 校验文件。
 2. 解压到任意目录（路径可以包含中文）。
 3. 双击 `SpineView.exe` 启动。
 4. 输入手机号并获取短信验证码，登录后即可使用；每个手机号从首次登录起有一个月试用期。
