@@ -1,0 +1,651 @@
+SpineView 商业授权协议 1.1
+SpineView Commercial License Agreement 1.1
+
+生效日期：2026 年 10 月 28 日
+Effective Date: October 28, 2026
+
+版权所有 (c) 2026 zhang chen。保留所有权利。
+Copyright (c) 2026 zhang chen. All rights reserved.
+
+本软件是授权方拥有著作权的商业软件，受著作权法律保护，按本协议以付费许可方式
+提供。除本协议明确授予的权利外，所有权利均予保留。
+The Software is commercial software owned by the Licensor, protected by copyright law,
+and made available under this Agreement for a fee. All rights not expressly granted by
+this Agreement are reserved.
+
+重要提示：本协议是你与授权方之间就本软件达成的具有法律约束力的协议。安装、复制、
+激活或以其他方式使用本软件，即表示你已阅读、理解并同意受本协议约束。如你不同意
+本协议的任何条款，请勿安装或使用本软件，并删除你持有的全部副本。
+IMPORTANT: This Agreement is a legally binding contract between you and the Licensor
+regarding the Software. By installing, copying, activating or otherwise using the
+Software, you acknowledge that you have read, understood and agree to be bound by this
+Agreement. If you do not agree to any term of this Agreement, do not install or use the
+Software and delete all copies in your possession.
+
+目录 / Contents
+  第一条  定义 / Article 1  Definitions
+  第二条  协议的接受、适用与版本 / Article 2  Acceptance, Scope and Version
+  第三条  授权授予 / Article 3  License Grant
+  第四条  授权类型与期限 / Article 4  License Types and Term
+  第五条  激活、设备绑定与授权管理 / Article 5  Activation, Device Binding and
+          License Administration
+  第六条  限制 / Article 6  Restrictions
+  第七条  更新、升级与支持 / Article 7  Updates, Upgrades and Support
+  第八条  知识产权 / Article 8  Intellectual Property
+  第九条  数据与隐私 / Article 9  Data and Privacy
+  第十条  保证与免责 / Article 10  Warranties and Disclaimers
+  第十一条  责任限制 / Article 11  Limitation of Liability
+  第十二条  终止 / Article 12  Termination
+  第十三条  出口管制与合规 / Article 13  Export Control and Compliance
+  第十四条  适用法律与争议解决 / Article 14  Governing Law and Dispute Resolution
+  第十五条  其他 / Article 15  Miscellaneous
+  第三方组件声明 / Third-Party Components
+
+-------------------------------------------------------------------------------
+第一条 定义 / Article 1 Definitions
+-------------------------------------------------------------------------------
+
+1.1 “本软件”指由授权方提供的 SpineView 应用程序、可执行文件、安装包、更新、
+    升级、文档，以及随附的授权信息。
+    “The Software” means the SpineView application, executable files, installation
+    packages, updates, upgrades and documentation provided by the Licensor, together
+    with any accompanying License Information.
+
+1.2 “授权方”指本软件的著作权人 zhang chen。
+    “The Licensor” means zhang chen, the copyright owner of the Software.
+
+1.3 “你”指通过订单合法取得本软件授权，并依据本协议使用本软件的自然人、法人或
+    非法人组织。如你代表组织接受本协议，你声明并保证已获得该组织的充分授权。
+    “You” means the natural person, legal entity or unincorporated organization that
+    has lawfully obtained a license to the Software under an Order and uses the
+    Software under this Agreement. If you accept this Agreement on behalf of an
+    organization, you represent and warrant that you are duly authorized to do so.
+
+1.4 “订单”指购买或续费时授权方确认的订单、发票、电子邮件或其他书面记录，载明
+    授权类型、期限、席位数量、价格、更新与支持范围等商业条款。
+    “Order” means the order, invoice, email or other written record confirmed by the
+    Licensor at the time of purchase or renewal, setting out the license type, term,
+    number of Seats, price, update and support scope and other commercial terms.
+
+1.5 “设备”指安装、激活或运行本软件的计算机或其他终端。
+    “Device” means a computer or other terminal on which the Software is installed,
+    activated or run.
+
+1.6 “席位”指订单许可的自然人用户数量。除订单另有明确约定外，一个席位对应一名
+    自然人用户，每个席位可在订单或渠道包载明的设备台数内同时激活本软件。
+    “Seat” means the number of natural-person users licensed under an Order. Unless
+    the Order expressly provides otherwise, one Seat corresponds to one natural
+    person, and each Seat may have the Software activated on the number of Devices
+    stated in the Order or the channel package at the same time.
+
+1.7 “更新”指授权方在同一主版本内发布的修正、修补或小幅改进；“升级”指主版本
+    变更或授权方另行标识的版本。
+    “Update” means a correction, patch or minor improvement released by the Licensor
+    within the same major version; “Upgrade” means a new major version or a release
+    otherwise designated as an upgrade by the Licensor.
+
+1.8 “授权信息”指授权方提供的许可证、授权码、激活令牌、设备绑定信息，以及用于
+    验证本软件授权状态的其他标识或数据。
+    “License Information” means the license, license key, activation token,
+    device-binding information and other identifiers or data provided by the Licensor
+    to verify the licensed status of the Software.
+
+-------------------------------------------------------------------------------
+第二条 协议的接受、适用与版本 / Article 2 Acceptance, Scope and Version
+-------------------------------------------------------------------------------
+
+2.1 你安装、复制、激活或以其他方式使用本软件，即表示你接受本协议。如你不同意
+    本协议，不得使用本软件。
+    By installing, copying, activating or otherwise using the Software, you accept
+    this Agreement. If you do not agree to this Agreement, you must not use the
+    Software.
+
+2.2 本协议适用于生效日之后交付的版本。在本协议生效前，依据当时适用的授权协议
+    合法取得的版本，继续适用其取得时的协议；当你安装或使用本协议适用的版本时，
+    本协议适用于该版本。
+    This Agreement applies to versions delivered on or after the Effective Date.
+    Versions lawfully obtained before the Effective Date under the license agreement
+    then in force remain governed by that agreement; when you install or use a version
+    to which this Agreement applies, this Agreement governs that version.
+
+2.3 订单与本协议不一致的，以订单条款为准。订单未约定的事项，适用本协议。
+    If an Order conflicts with this Agreement, the Order prevails. Matters not
+    addressed in an Order are governed by this Agreement.
+
+2.4 未支付相应费用或未取得有效授权的，你无权使用本软件。本协议仅授予订单明确
+    约定的授权。
+    You have no right to use the Software unless you have paid the applicable fees
+    and obtained a valid license. This Agreement grants only the license expressly set
+    out in an Order.
+
+2.5 本协议不排除、不限制你依据适用法律享有的不可放弃的权利。
+    This Agreement does not exclude or limit any rights you have under applicable law
+    that cannot be waived.
+
+-------------------------------------------------------------------------------
+第三条 授权授予 / Article 3 License Grant
+-------------------------------------------------------------------------------
+
+3.1 在你支付相应费用并持续遵守本协议及订单的前提下，授权方授予你一项有限的、
+    非独占的、不可转让、不可再许可、可依本协议终止的许可，允许你按照本协议和
+    订单使用本软件。
+    Subject to your payment of the applicable fees and your continued compliance with
+    this Agreement and the Order, the Licensor grants you a limited, non-exclusive,
+    non-transferable, non-sublicensable and terminable license to use the Software in
+    accordance with this Agreement and the Order.
+
+3.2 在上述范围内，你可以：
+    (a) 在订单约定的授权期限内，按订单载明的席位，每个席位可在订单或渠道包载明
+        的设备台数内安装、激活并运行本软件；同一席位同时激活的设备不得超过该
+        台数，订单另有明确约定的除外；
+    (b) 仅为备份目的复制本软件的可执行文件和文档，但不得复制、共享或分发
+        授权信息；
+    (c) 将本软件用于你的个人或商业项目。
+    Within that scope, you may:
+    (a) install, activate and run the Software during the term set out in the Order,
+        for the Seats set out in the Order, on the number of Devices per Seat stated
+        in the Order or the channel package; no more Devices than that number may be
+        activated at the same time for one Seat unless the Order expressly provides
+        otherwise;
+    (b) copy the Software's executable files and documentation solely for backup
+        purposes, but must not copy, share or distribute License Information;
+    (c) use the Software for your personal or commercial projects.
+
+3.3 组织使用：如你为组织，每个席位仅限一名指定自然人使用。多名人员需要使用本
+    软件的，应取得相应数量的席位。你不得在人员之间轮换或共享同一席位，以规避
+    席位数量限制。
+    Organizational use: If you are an organization, each Seat is limited to one
+    designated natural person. If multiple individuals need to use the Software, you
+    must obtain the corresponding number of Seats. You may not rotate or share a Seat
+    among individuals to circumvent the Seat limit.
+
+3.4 本协议仅授予使用许可，不授予源代码、著作权、商标权或其他任何未明确授予的
+    权利。本软件以目标代码形式提供。
+    This Agreement grants only a license to use the Software. It grants no source
+    code, copyright, trademark or other rights not expressly granted. The Software is
+    provided in object-code form only.
+
+3.5 授权按席位整体授予，不得拆分、按设备转售或以其他方式单独转让。
+    A license is granted as a whole per Seat and may not be split, resold per Device
+    or otherwise transferred separately.
+
+3.6 本软件仅通过授权方指定的渠道交付。授权方仅对通过官方渠道获得的版本提供支持
+    和服务；通过非官方渠道获得的版本不在授权方支持范围内。
+    The Software is delivered only through channels designated by the Licensor. The
+    Licensor provides support and services only for versions obtained through official
+    channels; versions obtained through unofficial channels are outside the Licensor's
+    support scope.
+
+-------------------------------------------------------------------------------
+第四条 授权类型与期限 / Article 4 License Types and Term
+-------------------------------------------------------------------------------
+
+4.1 按年订阅授权：期限自订单载明之日起算，时长以订单为准。订阅期限届满且未
+    续费的，授权终止，本软件将停止提供全部或部分功能；订单另有约定的除外。
+    Annual subscription: The term starts on the date stated in the Order, and its
+    duration is set out in the Order. If the subscription expires and is not renewed,
+    the license terminates and the Software will stop providing all or part of its
+    functionality, unless the Order provides otherwise.
+
+4.2 终身授权：在订单载明的范围内永久使用本软件。终身授权包含的更新、升级和技术
+    支持范围以订单为准；订单未约定的，终身授权适用于购买时对应的版本，未来的
+    升级按届时订单另行提供。
+    Lifetime license: You may use the Software permanently within the scope stated in
+    the Order. The scope of Updates, Upgrades and technical support included in a
+    lifetime license is set out in the Order; if the Order is silent, the lifetime
+    license applies to the version corresponding to your purchase, and future Upgrades
+    are provided under a separate Order at that time.
+
+4.3 授权期限、席位数量、设备数量以订单和授权信息为准。授权期限届满、授权被
+    吊销或本协议终止后，本软件将停止提供相应授权功能；这是授权机制的组成部分。
+    经授权方同意续期或另行授权后，你可以继续使用。
+    The license term, number of Seats and number of Devices are determined by the
+    Order and the License Information. Upon expiry of the term, revocation of the
+    license or termination of this Agreement, the Software will stop providing the
+    corresponding licensed functionality as part of the licensing mechanism. You may
+    continue using it after the Licensor agrees to a renewal or grants a separate
+    license.
+
+4.4 续费按续费时的订单和价格执行。除非续费时另有说明，续费不改变本协议。
+    Renewals are subject to the Order and pricing in effect at the time of renewal.
+    Unless otherwise stated at renewal, a renewal does not change this Agreement.
+
+-------------------------------------------------------------------------------
+第五条 激活、设备绑定与授权管理 / Article 5 Activation, Device Binding and License Administration
+-------------------------------------------------------------------------------
+
+5.1 本软件通过在线激活和授权验证确认授权状态。激活时校验设备标识，并将授权编号、
+    设备标识信息（如设备标识的哈希）、激活时间和授权状态发送至授权服务。
+    The Software confirms its licensed status through online activation and license
+    verification. Activation checks Device identifiers and sends the license number,
+    Device identifier information (such as a hash of the Device identifier), activation
+    time and license status to the licensing service.
+
+5.2 每个席位最多可在两（2）台设备上同时激活。当你在第三台设备上激活时，系统
+    将自动释放该席位下最久未使用的一台设备；你也可以在「关于 SpineView」中退出
+    本机授权，立即释放本机名额。
+    Each Seat may be activated on no more than two (2) Devices at the same time. When
+    you activate a third Device, the system will automatically release the least
+    recently used Device under that Seat. You may also log out the current Device from
+    “About SpineView” to release the seat immediately.
+
+5.3 因更换设备、重装系统或其他原因需要重新激活的，可按授权说明操作或联系授权方
+    申请重置。授权方有权要求你提供购买凭证，并可对重置次数作出合理限制。
+    If reactivation is needed due to a Device change, operating system reinstallation
+    or other reasons, you may follow the license instructions or contact the Licensor
+    for a reset. The Licensor may require proof of purchase and may reasonably limit
+    the number of resets.
+
+5.4 激活后，你可以在授权期限内离线使用本软件。连续离线超过授权服务设定的期限
+    （默认为三十（30）天）时，本软件需要联网重新验证；未通过验证的，可能停止
+    提供全部或部分功能。
+    After activation, you may use the Software offline during the license term. If
+    the Software remains offline for more than the period set by the licensing service
+    (thirty (30) days by default), it must reconnect to revalidate; if revalidation
+    fails, the Software may stop providing all or part of its functionality.
+
+5.5 除授权验证、在线状态同步和接收授权方通知外，本软件不进行其他网络通信。在线
+    期间，本软件与授权服务保持连接，仅用于授权验证、在线设备计数和接收与授权、
+    服务或安全有关的通知。本软件不上传你的动画文件或项目内容，不包含遥测、
+    行为分析、远程控制或后台上传功能。
+    The Software makes no network communications other than license verification,
+    online status synchronization and receiving notices from the Licensor. While
+    online, the Software maintains a connection to the licensing service solely for
+    license verification, online Device counting and receiving notices relating to
+    licensing, service or security. The Software does not upload your animation files
+    or project content and contains no telemetry, behavioral analytics, remote control
+    or background upload functionality.
+
+5.6 授权信息可能包含购买者信息、授权类型、期限、设备指纹和数字签名。你应妥善
+    保管授权信息，不得修改、伪造、复制、共享、公开传播或允许他人使用。
+    License Information may contain purchaser information, license type, term, Device
+    fingerprint and digital signature. You must keep License Information secure and
+    must not modify, forge, copy, share, publicly distribute or permit others to use
+    it.
+
+5.7 授权方可以通过授权服务向你发送与授权、服务或安全有关的通知，本软件将以窗口
+    形式显示。该等通知仅用于信息告知，授权范围以本协议和订单为准。
+    The Licensor may send you notices relating to licensing, service or security
+    through the licensing service, which the Software will display in a window. Such
+    notices are informational only; the scope of your license is governed by this
+    Agreement and the Order.
+
+5.8 因你保管不当或违反本协议导致授权信息被他人使用、泄露或盗用的，你应承担
+    相应责任。发现授权信息遗失、被盗或泄露的，应立即通知授权方。
+    You are responsible for any use, disclosure or misappropriation of License
+    Information caused by your failure to keep it secure or by your breach of this
+    Agreement. If you discover that License Information has been lost, stolen or
+    disclosed, you must notify the Licensor immediately.
+
+5.9 授权方可以改进授权验证和授权管理方式，但不会追溯性地缩短你已支付费用的授权
+    期限，也不会减少订单已授予的席位或设备数量。
+    The Licensor may improve its license verification and administration methods, but
+    will not retroactively shorten the license term you have paid for or reduce the
+    number of Seats or Devices granted by the Order.
+
+-------------------------------------------------------------------------------
+第六条 限制 / Article 6 Restrictions
+-------------------------------------------------------------------------------
+
+6.1 你不得复制、发布、上传、分发、出售、出租、出借、转售、共享或以其他方式向
+    任何第三方提供本软件、安装包或授权信息，但本协议明确允许的备份复制除外。
+    You must not copy, publish, upload, distribute, sell, rent, lend, resell, share
+    or otherwise make available the Software, installation packages or License
+    Information to any third party, except for backup copies expressly permitted by
+    this Agreement.
+
+6.2 你不得绕过、删除、修改、禁用或以其他方式干扰本软件的授权验证、激活、期限
+    控制、设备绑定、水印、版权声明或其他权利管理机制。
+    You must not circumvent, remove, modify, disable or otherwise interfere with the
+    Software's license verification, activation, term control, Device binding,
+    watermark, copyright notices or other rights-management mechanisms.
+
+6.3 你不得对本软件进行反向工程、反编译、反汇编，或试图获取其源代码，除非适用
+    法律明确允许且该等权利不能通过合同排除。
+    You must not reverse engineer, decompile or disassemble the Software, or attempt
+    to obtain its source code, unless applicable law expressly permits it and the
+    right cannot be excluded by contract.
+
+6.4 你不得修改、删除或隐藏本软件中的版权声明、商标、许可声明或第三方声明。
+    You must not modify, remove or conceal any copyright notice, trademark, license
+    notice or third-party notice in the Software.
+
+6.5 你不得将本软件或其任何部分用于制作、传播或协助制作破解版本、盗版复制品、
+    规避授权机制的工具或教程，也不得为上述目的提供技术支持或服务。
+    You must not use the Software or any part of it to create, distribute or assist in
+    creating cracked versions, pirated copies, or tools or tutorials that circumvent
+    licensing mechanisms, and must not provide technical support or services for those
+    purposes.
+
+6.6 除非订单或授权方的书面许可明确允许，你不得将本软件作为服务提供给第三方，
+    包括但不限于租赁、托管、外包、代操作、按次收费或共享授权信息等方式。
+    Unless expressly permitted by an Order or the Licensor's written consent, you
+    must not provide the Software to third parties as a service, including by rental,
+    hosting, outsourcing, operating on behalf of others, charging per use or sharing
+    License Information.
+
+6.7 你不得将本软件用于违反适用法律、法规或第三方权利的活动。
+    You must not use the Software for activities that violate applicable laws,
+    regulations or third-party rights.
+
+6.8 你不得将本软件用于干扰他人计算机系统或网络的行为，也不得利用本软件实施危害
+    网络安全的活动。
+    You must not use the Software to interfere with the computer systems or networks
+    of others, or to engage in activities that endanger cybersecurity.
+
+-------------------------------------------------------------------------------
+第七条 更新、升级与支持 / Article 7 Updates, Upgrades and Support
+-------------------------------------------------------------------------------
+
+7.1 你享有的更新、升级和技术支持范围取决于授权类型和订单条款。
+    The scope of Updates, Upgrades and technical support available to you depends on
+    your license type and the Order.
+
+7.2 更新和升级可能改变功能、界面或系统要求。授权方不保证本软件与未来版本的操作
+    系统、硬件或第三方软件兼容。
+    Updates and Upgrades may change features, interfaces or system requirements. The
+    Licensor does not guarantee compatibility of the Software with future operating
+    systems, hardware or third-party software.
+
+7.3 更新和升级由你自行获取和安装，是否安装由你决定；未安装更新不影响你在授权
+    范围内继续使用已获得的版本，但可能影响兼容性和支持。
+    Updates and Upgrades are obtained and installed by you at your discretion; not
+    installing them does not affect your right to continue using the version you
+    obtained within the licensed scope, but may affect compatibility and support.
+
+7.4 技术支持通过订单或授权说明载明的渠道提供，默认联系方式为 admin@ahope.vip 和
+    QQ 5069099。响应时间以订单为准；订单未约定的，授权方按合理的商业努力提供
+    支持。
+    Technical support is provided through the channels stated in the Order or the
+    license instructions; the default contacts are admin@ahope.vip and QQ 5069099.
+    Response times are set out in the Order; if the Order is silent, the Licensor
+    will use commercially reasonable efforts to provide support.
+
+-------------------------------------------------------------------------------
+第八条 知识产权 / Article 8 Intellectual Property
+-------------------------------------------------------------------------------
+
+8.1 本软件及其全部副本的著作权、商标权和其他知识产权归授权方或相应权利人所有。
+    All copyright, trademark and other intellectual property rights in the Software
+    and all copies of it belong to the Licensor or the respective rights holders.
+
+8.2 本协议仅授予使用许可，不转让本软件或其任何副本的所有权。
+    This Agreement grants only a license to use the Software and transfers no
+    ownership of the Software or any copy of it.
+
+8.3 本软件可能包含第三方组件，该等组件受其各自许可条款约束。本协议不改变、不
+    替代、也不扩展该等许可；相关声明由授权方按适用法律和第三方许可要求另行提供。
+    你使用该等组件时，应同时遵守相应许可。
+    The Software may include third-party components governed by their own license
+    terms. This Agreement does not modify, replace or extend those licenses; the
+    relevant notices are provided separately by the Licensor as required by applicable
+    law and third-party licenses. You must comply with those licenses when using such
+    components.
+
+8.4 本软件是授权方的独立产品。
+    The Software is an independent product of the Licensor.
+
+8.5 SpineView 名称、标识和相关商标归授权方所有。未经授权方书面许可，你不得将其
+    用于产品名称、商业标识、域名、宣传材料或暗示背书；为准确说明本软件来源而
+    进行的合理提及除外。
+    The SpineView name, logo and related trademarks belong to the Licensor. Without
+    the Licensor's written consent, you must not use them in product names, business
+    identifiers, domain names, promotional materials or in any way suggesting
+    endorsement, except for reasonable references that accurately identify the origin
+    of the Software.
+
+-------------------------------------------------------------------------------
+第九条 数据与隐私 / Article 9 Data and Privacy
+-------------------------------------------------------------------------------
+
+9.1 为授权验证和授权管理，授权方可能处理与授权管理相关的数据，包括：授权编号、
+    购买者标识、设备标识信息（如设备标识的哈希）、激活与在线状态、授权期限和
+    验证时间。
+    For license verification and administration, the Licensor may process data related
+    to license administration, including: license number, purchaser identifier, Device
+    identifier information (such as a hash of the Device identifier), activation and
+    online status, license term and verification time.
+
+9.2 上述数据仅用于授权验证、席位与设备管理、服务通知、防止滥用和履行法律义务。
+    本软件不收集、不上传你的动画文件、项目内容或其他创作素材。
+    Such data is used only for license verification, Seat and Device management,
+    service notices, abuse prevention and compliance with legal obligations. The
+    Software does not collect or upload your animation files, project content or other
+    creative materials.
+
+9.3 授权方在实现本协议目的所必需的期限内保存上述数据，并采取与风险相适应的
+    技术和管理措施保护数据安全。
+    The Licensor retains such data for the period necessary to fulfill the purposes of
+    this Agreement and adopts technical and organizational measures appropriate to the
+    risk to protect data security.
+
+9.4 除取得你的同意、为提供授权服务所必需或适用法律要求外，授权方不向第三方披露
+    上述数据。
+    The Licensor will not disclose such data to third parties except with your consent,
+    as necessary to provide the licensing service, or as required by applicable law.
+
+9.5 你可以通过本协议载明的联系方式，查询、更正与你有关的授权信息，或就数据
+    处理提出疑问。
+    You may use the contact details in this Agreement to inquire about, correct or
+    raise questions regarding the License Information and data processing related to
+    you.
+
+-------------------------------------------------------------------------------
+第十条 保证与免责 / Article 10 Warranties and Disclaimers
+-------------------------------------------------------------------------------
+
+10.1 在适用法律允许的最大范围内，本软件按“现状”和“现有”提供，不附带任何
+     明示或默示的保证，包括但不限于适销性、特定用途适用性、所有权、不侵权、
+     无病毒、不间断运行或无错误的保证。
+     To the maximum extent permitted by applicable law, the Software is provided “as
+     is” and “as available”, without any express or implied warranties, including
+     warranties of merchantability, fitness for a particular purpose, title,
+     non-infringement, freedom from viruses, uninterrupted operation or absence of
+     errors.
+
+10.2 授权方不保证本软件能够满足你的全部需求，也不保证本软件与所有动画文件、
+     操作系统、硬件或第三方软件兼容。
+     The Licensor does not warrant that the Software will meet all your requirements
+     or that it will be compatible with all animation files, operating systems,
+     hardware or third-party software.
+
+10.3 本软件不设计、不授权用于医疗、生命支持、核设施、航空导航、军事或其他高
+     风险场景。你自行承担将本软件用于该等场景的全部风险和责任。
+     The Software is not designed or licensed for medical, life-support, nuclear
+     facility, aviation navigation, military or other high-risk uses. You assume all
+     risk and responsibility for using the Software in such contexts.
+
+10.4 本条不排除或限制适用法律不得排除或限制的保证。
+     This section does not exclude or limit any warranty that cannot be excluded or
+     limited under applicable law.
+
+-------------------------------------------------------------------------------
+第十一条 责任限制 / Article 11 Limitation of Liability
+-------------------------------------------------------------------------------
+
+11.1 在适用法律允许的最大范围内，授权方不对因使用或无法使用本软件而产生的任何
+     间接、偶然、特殊、惩罚性或后果性损害承担责任，包括但不限于利润损失、收入
+     损失、数据丢失、业务中断、商誉损失或第三方索赔。
+     To the maximum extent permitted by applicable law, the Licensor is not liable for
+     any indirect, incidental, special, punitive or consequential damages arising from
+     the use of or inability to use the Software, including loss of profits, loss of
+     revenue, loss of data, business interruption, loss of goodwill or third-party
+     claims.
+
+11.2 在适用法律允许的最大范围内，授权方就本协议或本软件承担的累计责任总额不
+     超过你在索赔发生前十二（12）个月内为使用本软件实际支付的费用；终身授权的，
+     不超过你为该授权实际支付的购买价格。
+     To the maximum extent permitted by applicable law, the Licensor's aggregate
+     liability under this Agreement or in connection with the Software will not exceed
+     the fees you actually paid for the Software in the twelve (12) months preceding
+     the claim; for a lifetime license, it will not exceed the purchase price you
+     actually paid for that license.
+
+11.3 本条不排除或限制适用法律不得排除或限制的责任，包括因故意或重大过失造成的
+     人身损害责任、欺诈责任，以及消费者保护法律赋予你的不可放弃的权利。
+     This section does not exclude or limit liability that cannot be excluded or
+     limited under applicable law, including liability for death or personal injury
+     caused by intent or gross negligence, fraud, and rights you have under consumer
+     protection laws that cannot be waived.
+
+11.4 因你违反本协议或违法使用本软件导致第三方向授权方主张权利或使授权方遭受
+     损失的，你应在适用法律允许的范围内赔偿授权方因此遭受的合理损失，包括合理
+     的律师费。
+     If a third party asserts a claim against the Licensor or the Licensor suffers loss
+     as a result of your breach of this Agreement or unlawful use of the Software, you
+     must, to the extent permitted by applicable law, indemnify the Licensor for the
+     reasonable losses incurred, including reasonable legal fees.
+
+11.5 本条在本协议终止或授权期限届满后继续有效。
+     This section survives termination of this Agreement or expiry of the license
+     term.
+
+-------------------------------------------------------------------------------
+第十二条 终止 / Article 12 Termination
+-------------------------------------------------------------------------------
+
+12.1 你实质性违反本协议任何条款，且未在授权方书面通知后十五（15）日内补救的，
+     本协议授予你的许可终止。对于无法补救的违约，包括未经授权分发本软件、破解
+     本软件或规避授权机制，许可立即终止。授权方可以书面通知（包括电子邮件）确认
+     终止，并有权通过授权服务使相关授权信息失效。
+     If you materially breach any term of this Agreement and fail to cure the breach
+     within fifteen (15) days after written notice from the Licensor, the license
+     granted to you terminates. For breaches that cannot be cured, including
+     unauthorized distribution of the Software, cracking the Software or circumventing
+     the licensing mechanism, the license terminates immediately. The Licensor may
+     confirm the termination by written notice (including email) and may invalidate
+     the relevant License Information through the licensing service.
+
+12.2 按年订阅期限届满且未续费的，授权自动终止，但本协议中依其性质应继续有效的
+     条款不受影响。
+     If an annual subscription expires and is not renewed, the license terminates
+     automatically, without affecting the provisions of this Agreement that by their
+     nature survive termination.
+
+12.3 授权终止后，你应立即停止使用本软件，并删除你持有或控制的全部副本、授权
+     信息及相关激活数据。你不得以任何方式继续使用或恢复授权。
+     After termination, you must immediately stop using the Software and delete all
+     copies, License Information and related activation data in your possession or
+     control. You must not continue to use or restore the license in any way.
+
+12.4 本协议中关于定义、知识产权、数据与隐私、保证与免责、责任限制、终止后果、
+     适用法律与争议解决的条款，以及依其性质应继续有效的其他条款，在本协议终止
+     后继续有效。
+     The provisions of this Agreement relating to definitions, intellectual property,
+     data and privacy, warranties and disclaimers, limitation of liability,
+     consequences of termination, governing law and dispute resolution, and other
+     provisions that by their nature should survive, remain in effect after
+     termination.
+
+12.5 在适用法律允许的范围内，除订单另有约定外，已交付的授权不予退款；授权终止、
+     未使用或不再需要，不构成退款理由。本条不影响你依法享有的不可放弃的权利。
+     To the extent permitted by applicable law, and unless an Order provides
+     otherwise, fees for delivered licenses are non-refundable; termination of the
+     license, non-use or loss of need does not constitute grounds for a refund. This
+     clause does not affect rights you have under applicable law that cannot be
+     waived.
+
+12.6 终止不影响任何一方就终止前发生的违约或损害主张权利。
+     Termination does not affect either party's right to claim for breaches or damages
+     that occurred before termination.
+
+-------------------------------------------------------------------------------
+第十三条 出口管制与合规 / Article 13 Export Control and Compliance
+-------------------------------------------------------------------------------
+
+13.1 你应遵守适用于你的出口管制、经济制裁、反腐败和反洗钱法律法规。你不得将
+     本软件提供给受制裁或受出口限制的主体，或用于适用法律禁止的用途。
+     You must comply with the export control, economic sanctions, anti-corruption and
+     anti-money-laundering laws and regulations applicable to you. You must not
+     provide the Software to sanctioned or export-restricted parties or use it for
+     purposes prohibited by applicable law.
+
+13.2 你声明并保证，你不属于适用法律禁止与其进行交易的任何主体，且你不会将本
+     软件用于大规模杀伤性武器、恐怖活动或其他被适用法律禁止的用途。
+     You represent and warrant that you are not a party prohibited from transacting
+     under applicable law and that you will not use the Software for weapons of mass
+     destruction, terrorist activities or other purposes prohibited by applicable law.
+
+-------------------------------------------------------------------------------
+第十四条 适用法律与争议解决 / Article 14 Governing Law and Dispute Resolution
+-------------------------------------------------------------------------------
+
+14.1 本协议适用中华人民共和国法律（不包括冲突法规则）。
+     This Agreement is governed by the laws of the People's Republic of China,
+     excluding its conflict-of-law rules.
+
+14.2 因本协议产生的争议，双方应首先友好协商解决；协商不成的，任何一方可以向
+     授权方所在地有管辖权的人民法院提起诉讼。
+     Disputes arising from this Agreement shall first be resolved through friendly
+     negotiation; if negotiation fails, either party may bring an action in the
+     competent people's court at the Licensor's place of domicile.
+
+14.3 如你所在国家或地区的消费者保护法律赋予你不可放弃的权利，本协议不影响这些
+     权利。
+     If the consumer protection laws of your country or region grant you rights that
+     cannot be waived, this Agreement does not affect those rights.
+
+-------------------------------------------------------------------------------
+第十五条 其他 / Article 15 Miscellaneous
+-------------------------------------------------------------------------------
+
+15.1 本协议构成双方就本软件授权达成的完整协议，取代此前的口头或书面说明、承诺
+     或陈述。订单与本协议冲突的，以订单条款为准。
+     This Agreement constitutes the entire agreement between the parties regarding
+     the licensing of the Software and supersedes all prior oral or written
+     statements, commitments or representations. If an Order conflicts with this
+     Agreement, the Order prevails.
+
+15.2 本协议任何条款被认定为无效、违法或不可执行的，不影响其他条款的效力；双方
+     应以最接近原条款目的的有效条款替代之。
+     If any provision of this Agreement is held invalid, illegal or unenforceable,
+     the remaining provisions remain in effect, and the parties shall replace the
+     provision with a valid one that most closely achieves the original purpose.
+
+15.3 授权方未行使或延迟行使本协议项下的任何权利，不构成对该权利的放弃。
+     The Licensor's failure or delay in exercising any right under this Agreement
+     does not constitute a waiver of that right.
+
+15.4 未经授权方事先书面同意，你不得转让本协议或你享有的授权，任何违反本条的
+     转让均无效。授权方可以因合并、重组、出售业务或资产等原因转让本协议。
+     You may not assign this Agreement or the license granted to you without the
+     Licensor's prior written consent, and any assignment in violation of this clause
+     is void. The Licensor may assign this Agreement in connection with a merger,
+     reorganization, sale of business or assets or similar transaction.
+
+15.5 因不可抗力（包括自然灾害、战争、疫情、政府行为、网络或电力中断等）导致
+     一方不能或延迟履行本协议的，该方不承担违约责任，但应及时通知对方并采取
+     合理措施减少损失。
+     A party is not liable for failure or delay in performance caused by force majeure,
+     including natural disasters, war, epidemics, government acts, network or power
+     outages, provided that the party promptly notifies the other party and takes
+     reasonable steps to mitigate the loss.
+
+15.6 授权方可以通过你在购买时提供的电子邮件、本软件内通知或授权服务向你发送
+     通知，该等通知于发送时视为已送达。你应确保购买邮箱有效；邮箱变更的，应及时
+     通知授权方。你向授权方发出的通知应发送至 admin@ahope.vip。
+     The Licensor may send notices to the email address you provided at purchase,
+     through in-application notices or through the licensing service, and such
+     notices are deemed delivered when sent. You must keep your purchase email valid
+     and notify the Licensor of any change. Notices you send to the Licensor should
+     be sent to admin@ahope.vip.
+
+15.7 本协议以中文和英文写成。两种文本不一致的，以中文文本为准。
+     This Agreement is written in Chinese and English. If the two versions conflict,
+     the Chinese version prevails.
+
+15.8 购买、续费、授权重置、技术支持及本协议相关事宜，请联系：
+     admin@ahope.vip / QQ 5069099。
+     For purchases, renewals, license resets, technical support and matters relating
+     to this Agreement, please contact: admin@ahope.vip / QQ 5069099.
+
+-------------------------------------------------------------------------------
+第三方组件声明 / Third-Party Components
+-------------------------------------------------------------------------------
+
+本软件可能包含第三方组件，该等组件受其各自许可条款约束。本协议不改变、不替代
+也不扩展该等许可。相关许可声明由授权方按适用法律和第三方许可要求另行提供。
+The Software may include third-party components governed by their own license terms.
+This Agreement does not modify, replace or extend those licenses. The relevant license
+notices are provided separately by the Licensor as required by applicable law and
+third-party licenses.
