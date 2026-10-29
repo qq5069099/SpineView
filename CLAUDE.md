@@ -2,7 +2,7 @@
 
 ## 安装包来源
 
-- 每个版本按渠道提供多个安装包，文件名 `<渠道>-SpineView-<版本>.zip`（例如 `ahope-SpineView-1.5.9.zip`、`github-SpineView-1.5.9.zip`、`weixin-SpineView-1.5.9.zip`）。
+- 每个版本按渠道提供安装包，文件名 `<渠道>-SpineView-<版本>.zip`（例如 `windows-SpineView-1.5.9.zip`；渠道名以实际签发为准）。
 - 安装包放在仓库根目录的 `github/` 文件夹（或仓库根目录）；`github/` 和 `*.zip` 已在 `.gitignore` 中忽略，不要提交。
 - 发布时直接使用已有的 zip，不重新压缩、不改名。
 
