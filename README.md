@@ -10,14 +10,9 @@ Windows 10 / 11 x64 · 免安装 · 手机号登录，首次登录免费试用�
 
 ## 下载与安装
 
-直接下载安装包：
+安装包发布在本仓库的 [Releases](https://github.com/qq5069099/SpineView/releases) 页面；通过购买渠道购买的用户，也可以使用渠道提供的安装包。
 
-- [SpineView-1.5.8.rar](https://github.com/qq5069099/SpineView/raw/main/SpineView-1.5.8.rar)
-- [SpineView-1.5.8.rar.sha256](https://github.com/qq5069099/SpineView/raw/main/SpineView-1.5.8.rar.sha256)
-
-通过购买渠道购买的用户，也可以使用渠道提供的安装包。
-
-1. 下载上面的 rar 压缩包和对应的 `.sha256` 校验文件。
+1. 下载最新版本的 zip 安装包和对应的 `.sha256` 校验文件。
 2. 解压到任意目录（路径可以包含中文）。
 3. 双击 `SpineView.exe` 启动。
 4. 输入手机号并获取短信验证码，登录后即可使用；每个手机号从首次登录起有一个月试用期。
@@ -26,7 +21,7 @@ Windows 10 / 11 x64 · 免安装 · 手机号登录，首次登录免费试用�
 
 **系统要求**：Windows 10 / 11 x64（推荐）。Windows 7 SP1 / 8.1 x64 需要系统支持 TLS 1.2 与相应根证书；建议使用仍受微软支持的 Windows 版本。
 
-> 请只从本仓库提供的下载链接或购买渠道获取安装包。下载后可用 `certutil -hashfile <安装包> SHA256` 与 `.sha256` 文件核对，确认文件完整。
+> 请只从本仓库 Releases 或购买渠道获取安装包。下载后可用 `certutil -hashfile <安装包> SHA256` 与 `.sha256` 文件核对，确认文件完整。
 
 ## 快速上手
 
